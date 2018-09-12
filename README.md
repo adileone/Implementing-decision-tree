@@ -1,2 +1,2 @@
 # Implementing-decision-trees
-Machine Learnig - INF283 - Project - 1 - University Of Bergen
+Machine Learning - INF283 - Project - 1 - University Of Bergen
